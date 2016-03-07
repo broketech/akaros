@@ -23,6 +23,7 @@
 #include <vmm/virtio_mmio.h>
 #include <vmm/virtio_ids.h>
 #include <vmm/virtio_config.h>
+#include <vmm/sched.h>
 
 
 
